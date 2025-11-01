@@ -8,7 +8,7 @@ The main focus of this lab is to get familiar with the **Dev-C++ IDE**, understa
 
 ##  Lab Details
 
-### 🎯 Objective
+###  Objective
 - Learn how to **install and set up Dev-C++** for C++ programming.  
 - Write and run your **first C++ programs**.  
 - Practice **printing messages**, **patterns**, and **escape sequences** using `cout`.  
@@ -16,7 +16,7 @@ The main focus of this lab is to get familiar with the **Dev-C++ IDE**, understa
 
 ---
 
-## 🧠 Main Concepts Covered
+##  Main Concepts Covered
 - Installing and configuring **Dev-C++ **  
 - Writing and executing basic **C++ programs**  
 - Using `cout` for console output  
