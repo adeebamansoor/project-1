@@ -27,7 +27,7 @@ The main focus of this lab is to get familiar with the **Dev-C++ IDE**, understa
 
 ## Tasks Breakdown
 
-### 🔹 Task 1 — Simple Welcome Message
+###  Task 1 — Simple Welcome Message
 Write a C++ program that displays a **welcome message** on the screen.
 
 ### Task 2 — Printing a Pattern
@@ -36,7 +36,7 @@ Write a C++ program that displays a **welcome message** on the screen.
 ### Task 3 — Formatting with Tabs and Newlines
 Practice using the \t (tab) and \n (newline) escape sequences to format text neatly.
 
-###Task 4 — Message Using Various Escape Sequences
+### Task 4 — Message Using Various Escape Sequences
 
 Use multiple escape sequences such as \n, \t, \", and \\ to create a formatted message.
 
